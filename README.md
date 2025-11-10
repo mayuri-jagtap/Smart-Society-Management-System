@@ -44,7 +44,7 @@ Unlike existing society management systems, SSMS integrates:
 ## ⚙️ Installation & Setup
 
 1. **Clone the Repository**
-   ```markdown
+   
 ```bash
 git clone https://github.com/mayuri-jagtap/Smart-Society-Management-System.git
 ```
