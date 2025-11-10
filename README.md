@@ -65,8 +65,7 @@ http://localhost/Smart-Society-Management-System/
 ---
 
 ##🧠 System Architecture
-scss
-Copy code
+
 Frontend (HTML/CSS/JS)
         ↓
 Backend Logic (PHP)
@@ -74,6 +73,7 @@ Backend Logic (PHP)
 Database (MySQL)
         ↓
 AI & Alert Modules (JS + PHP Integration)
+
 ---
 
 ##🔮 Future Enhancements
@@ -84,6 +84,7 @@ AI & Alert Modules (JS + PHP Integration)
 *AI-powered maintenance prediction
 
 *Multilingual voice support
+
 ---
 
 ##👩‍💻 Authors
