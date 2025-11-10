@@ -79,10 +79,7 @@ AI & Alert Modules (JS + PHP Integration)
 
 ---
 
-##  Screenshots
 
-# housify
-![Alt text](image-3.png)
 
 ---
 
@@ -107,9 +104,6 @@ AI & Alert Modules (JS + PHP Integration)
 
 
 
----
 
-Would you like me to make it **IEEE-style academic** (for Zenodo or paper linking), or keep this **developer-friendly GitHub version**?
-```
 
 
