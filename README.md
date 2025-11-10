@@ -1,7 +1,7 @@
 
 
 
-# 🏢 Smart Society Management System (SSMS)
+#  Smart Society Management System (SSMS)
 
 ![Alt text](image-3.png)
 
@@ -9,19 +9,19 @@ The **Smart Society Management System (SSMS)** is a web-based platform designed 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 👥 **Resident Management** – Register, update, and manage resident profiles easily.  
-- 🧾 **Complaint Tracking** – Log, view, and resolve complaints efficiently.  
-- 💳 **Maintenance Billing** – Automate monthly maintenance charge generation and payments.  
-- 🧍‍♂️ **Visitor Management** – Track visitor entries and exits for security.  
-- 🏠 **Facility Booking** – Reserve common amenities like halls or gyms online.  
-- 🚨 **Emergency Alert System** – Real-time alert mechanism to notify all residents in emergencies.  
-- 🎙️ **Voice Assistant Integration** – Allows hands-free navigation and interaction using voice commands.
+-  **Resident Management** – Register, update, and manage resident profiles easily.  
+-  **Complaint Tracking** – Log, view, and resolve complaints efficiently.  
+-  **Maintenance Billing** – Automate monthly maintenance charge generation and payments.  
+-  **Visitor Management** – Track visitor entries and exits for security.  
+-  **Facility Booking** – Reserve common amenities like halls or gyms online.  
+-  **Emergency Alert System** – Real-time alert mechanism to notify all residents in emergencies.  
+-  **Voice Assistant Integration** – Allows hands-free navigation and interaction using voice commands.
 
 ---
 
-## 💡 Uniqueness
+##  Uniqueness
 
 Unlike existing society management systems, SSMS integrates:  
 - **AI-based Voice Interaction** for accessibility and ease of use.  
@@ -30,7 +30,7 @@ Unlike existing society management systems, SSMS integrates:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology Used |
 |------------|----------------|
@@ -42,7 +42,7 @@ Unlike existing society management systems, SSMS integrates:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the Repository**
    ```bash
@@ -62,7 +62,7 @@ Unlike existing society management systems, SSMS integrates:
 http://localhost/Smart-Society-Management-System/
 ---
 
-## 🚀 System Architecture
+##  System Architecture
 
 Frontend (HTML/CSS/JS)
         ↓
@@ -74,24 +74,24 @@ AI & Alert Modules (JS + PHP Integration)
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-Mobile app integration for residents
+1.Mobile app integration for residents
 
-Advanced analytics dashboard for administrators
+2.Advanced analytics dashboard for administrators
 
-AI-powered maintenance prediction
+3.AI-powered maintenance prediction
 
-Multilingual voice support
+4.Multilingual voice support
 
 ---
 
-## 🚀 Authors
+##  Authors
 
-Mayuri Jagtap – MIT ADT University
+1.Mayuri Jagtap – MIT ADT University
 
-Shruti Bodkhe – MIT ADT University
+2.Shruti Bodkhe – MIT ADT University
 
-Jayant Deshmukh – MIT ADT University
+3.Jayant Deshmukh – MIT ADT University
 
-Faculty Guide: Prof. [Your Guide’s Name]
+4.Faculty Guide: Prof. Hemant Shinde
