@@ -1,11 +1,7 @@
 # housify
 ![Alt text](image-3.png)
 
-Sure! Here’s your **README.md** content properly formatted inside Markdown code block (ready to copy and upload to GitHub):
 
----
-
-````markdown
 # 🏢 Smart Society Management System (SSMS)
 
 The **Smart Society Management System (SSMS)** is a web-based platform designed to automate daily operations in residential communities. It offers features like resident registration, complaint tracking, maintenance billing, visitor management, facility booking, and real-time emergency alerts. The system enhances transparency, communication, and safety within societies through a centralized digital interface.
@@ -102,11 +98,5 @@ AI & Alert Modules (JS + PHP Integration)
 
 ---
 
-```
-
----
-
-Would you like me to also include a **“Project Demo”** section (for video/screenshot links) and **“License”** section for Zenodo?
-```
 
 
