@@ -4,6 +4,8 @@
 
 # 🏢 Smart Society Management System (SSMS)
 
+![Alt text](image-3.png)
+
 The **Smart Society Management System (SSMS)** is a web-based platform designed to automate daily operations in residential communities. It offers features like resident registration, complaint tracking, maintenance billing, visitor management, facility booking, and real-time emergency alerts. The system enhances transparency, communication, and safety within societies through a centralized digital interface.
 
 ---
@@ -44,33 +46,26 @@ Unlike existing society management systems, SSMS integrates:
 ## ⚙️ Installation & Setup
 
 1. **Clone the Repository**
-   
-```bash
-git clone https://github.com/mayuri-jagtap/Smart-Society-Management-System.git
-```
-```
+   ```bash
+   git clone https://github.com/mayuri-jagtap/Smart-Society-Management-System.git
+Move Project to Server Directory
 
-2. **Move Project to Server Directory**
+Place the folder in your htdocs (XAMPP) or www (WAMP) directory.
 
-   * Place the folder in your `htdocs` (XAMPP) or `www` (WAMP) directory.
+Create Database
 
-3. **Create Database**
+Open phpMyAdmin and import the provided society.sql file.
 
-   * Open **phpMyAdmin** and import the provided `society.sql` file.
+Run the Application
 
-4. **Run the Application**
+Open your browser and go to:
 
-   * Open your browser and go to:
-
-     ```
-     http://localhost/Smart-Society-Management-System/
-     ```
-
----
-
-## 🧠 System Architecture
-
-```
+arduino
+Copy code
+http://localhost/Smart-Society-Management-System/
+🧠 System Architecture
+scss
+Copy code
 Frontend (HTML/CSS/JS)
         ↓
 Backend Logic (PHP)
@@ -78,27 +73,20 @@ Backend Logic (PHP)
 Database (MySQL)
         ↓
 AI & Alert Modules (JS + PHP Integration)
-```
+🔮 Future Enhancements
+Mobile app integration for residents
 
----
+Advanced analytics dashboard for administrators
 
-## 🔮 Future Enhancements
+AI-powered maintenance prediction
 
-* Mobile app integration for residents
-* Advanced analytics dashboard for administrators
-* AI-powered maintenance prediction
-* Multilingual voice support
+Multilingual voice support
 
----
+👩‍💻 Authors
+Mayuri Jagtap – MIT ADT University
 
-## 👩‍💻 Authors
+Shruti Bodkhe – MIT ADT University
 
-* **Mayuri Jagtap** – MIT ADT University
-* **Shruti Bodkhe** – MIT ADT University
-* **Jayant Deshmukh** – MIT ADT University
-* **Faculty Guide:** Prof. [Your Guide’s Name]
+Jayant Deshmukh – MIT ADT University
 
----
-
-
-
+Faculty Guide: Prof. [Your Guide’s Name]
