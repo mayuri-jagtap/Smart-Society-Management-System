@@ -62,7 +62,7 @@ Unlike existing society management systems, SSMS integrates:
 http://localhost/Smart-Society-Management-System/
 ---
 
-**##🧠 System Architecture**
+## 🚀 System Architecture
 
 Frontend (HTML/CSS/JS)
         ↓
@@ -74,7 +74,7 @@ AI & Alert Modules (JS + PHP Integration)
 
 ---
 
-**##🔮 Future Enhancements**
+## 🚀 Future Enhancements
 
 Mobile app integration for residents
 
@@ -86,7 +86,7 @@ Multilingual voice support
 
 ---
 
-**##👩‍💻 Authors**
+## 🚀 Authors
 
 Mayuri Jagtap – MIT ADT University
 
