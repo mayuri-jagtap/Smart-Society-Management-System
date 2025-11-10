@@ -77,13 +77,14 @@ AI & Alert Modules (JS + PHP Integration)
 ---
 
 ##🔮 Future Enhancements
-*Mobile app integration for residents
 
-*Advanced analytics dashboard for administrators
+Mobile app integration for residents
 
-*AI-powered maintenance prediction
+Advanced analytics dashboard for administrators
 
-*Multilingual voice support
+AI-powered maintenance prediction
+
+Multilingual voice support
 
 ---
 
