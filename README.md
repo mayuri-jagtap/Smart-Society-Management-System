@@ -1,5 +1,4 @@
-# housify
-![Alt text](image-3.png)
+
 
 
 # 🏢 Smart Society Management System (SSMS)
@@ -48,22 +47,24 @@ Unlike existing society management systems, SSMS integrates:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/mayuri-jagtap/Smart-Society-Management-System.git
-Move Project to Server Directory
+2.**Move Project to Server Directory**
 
-Place the folder in your htdocs (XAMPP) or www (WAMP) directory.
+*Place the folder in your htdocs (XAMPP) or www (WAMP) directory.*
 
-Create Database
+3.**Create Database**
 
-Open phpMyAdmin and import the provided society.sql file.
+*Open phpMyAdmin and import the provided society.sql file.*
 
-Run the Application
+4.**Run the Application**
 
-Open your browser and go to:
+*Open your browser and go to:
 
 arduino
 Copy code
 http://localhost/Smart-Society-Management-System/
-🧠 System Architecture
+---
+
+##🧠 System Architecture
 scss
 Copy code
 Frontend (HTML/CSS/JS)
@@ -73,16 +74,20 @@ Backend Logic (PHP)
 Database (MySQL)
         ↓
 AI & Alert Modules (JS + PHP Integration)
-🔮 Future Enhancements
-Mobile app integration for residents
+---
 
-Advanced analytics dashboard for administrators
+##🔮 Future Enhancements
+*Mobile app integration for residents
 
-AI-powered maintenance prediction
+*Advanced analytics dashboard for administrators
 
-Multilingual voice support
+*AI-powered maintenance prediction
 
-👩‍💻 Authors
+*Multilingual voice support
+---
+
+##👩‍💻 Authors
+
 Mayuri Jagtap – MIT ADT University
 
 Shruti Bodkhe – MIT ADT University
